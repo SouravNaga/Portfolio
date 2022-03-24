@@ -29,9 +29,27 @@ html {
   font-size: 62.5%;
   overflow-x: hidden;
 }
+.whatsapp_float1 {
+  position: fixed;
+  bottom: 95px;
+  right: 20px;
+  z-index: 2;
+}
+.whatsapp_float2 {
+  position: fixed;
+  bottom: 155px;
+  right: 20px;
+  z-index: 2;
+}
+.whatsapp_float3 {
+  position: fixed;
+  bottom: 215px;
+  right: 20px;
+  z-index: 2;
+}
 .whatsapp_float {
   position: fixed;
-  bottom: 40px;
+  bottom: 35px;
   right: 20px;
   z-index: 2;
 }
